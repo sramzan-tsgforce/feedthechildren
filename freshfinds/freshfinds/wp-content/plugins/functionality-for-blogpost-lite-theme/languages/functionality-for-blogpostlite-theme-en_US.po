@@ -1,0 +1,865 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Functionality for Blogpost Lite theme v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-04-06 09:55:01+0000\n"
+"Last-Translator: smaids <smaids2007@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: functionality-for-blogpostlite-theme.php:0
+#@ functionality-for-blogpostlite-theme
+msgid "Functionality for Blogpost Lite theme"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: functionality-for-blogpostlite-theme.php:0
+#@ functionality-for-blogpostlite-theme
+msgid "http://cohhe.com/"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: functionality-for-blogpostlite-theme.php:0
+#@ functionality-for-blogpostlite-theme
+msgid "This plugin contains Blogpost Lite theme core functionality"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: functionality-for-blogpostlite-theme.php:0
+#@ functionality-for-blogpostlite-theme
+msgid "Cohhe"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: functionality-for-blogpostlite-theme.php:0
+#@ functionality-for-blogpostlite-theme
+msgid "1.0"
+msgstr ""
+
+#: includes/widgets/about-us.php:99
+#: includes/widgets/advertisement.php:68
+#: includes/widgets/contactform.php:75
+#: includes/widgets/googlemap.php:98
+#: includes/widgets/recent-posts-plus.php:360
+#: includes/widgets/social_links.php:114
+#: includes/widgets/twitter/twitter.php:92
+#@ functionality-for-blogpostlite-theme
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/fast-flickr-widget.php:37
+#@ functionality-for-blogpostlite-theme
+msgid "Flickr Images"
+msgstr ""
+
+#: includes/widgets/fast-flickr-widget.php:132
+#@ functionality-for-blogpostlite-theme
+msgid "Fast Flickr Title:"
+msgstr ""
+
+#: includes/widgets/fast-flickr-widget.php:133
+#@ functionality-for-blogpostlite-theme
+msgid "Flickr RSS URL or Screen name:"
+msgstr ""
+
+#: includes/widgets/fast-flickr-widget.php:134
+#@ functionality-for-blogpostlite-theme
+msgid "Thumbnail, square or medium?"
+msgstr ""
+
+#: includes/widgets/fast-flickr-widget.php:143
+#@ functionality-for-blogpostlite-theme
+msgid "Before item:"
+msgstr ""
+
+#: includes/widgets/fast-flickr-widget.php:144
+#@ functionality-for-blogpostlite-theme
+msgid "After item:"
+msgstr ""
+
+#: includes/widgets/fast-flickr-widget.php:145
+#@ functionality-for-blogpostlite-theme
+msgid "Before widget:"
+msgstr ""
+
+#: includes/widgets/fast-flickr-widget.php:146
+#@ functionality-for-blogpostlite-theme
+msgid "After widget:"
+msgstr ""
+
+#: includes/widgets/fast-flickr-widget.php:147
+#@ functionality-for-blogpostlite-theme
+msgid "How many items?"
+msgstr ""
+
+#: includes/widgets/fast-flickr-widget.php:148
+#@ functionality-for-blogpostlite-theme
+msgid "More link anchor text:"
+msgstr ""
+
+#: includes/widgets/fast-flickr-widget.php:149
+#@ functionality-for-blogpostlite-theme
+msgid "Filter by tags (comma seperated):"
+msgstr ""
+
+#: includes/widgets/fast-flickr-widget.php:150
+#@ functionality-for-blogpostlite-theme
+msgid "Target: _blank"
+msgstr ""
+
+#: includes/widgets/fast-flickr-widget.php:151
+#@ functionality-for-blogpostlite-theme
+msgid "Display titles"
+msgstr ""
+
+#: includes/widgets/fast-flickr-widget.php:152
+#@ functionality-for-blogpostlite-theme
+msgid "Use Thickbox"
+msgstr ""
+
+#: includes/widgets/fast-flickr-widget.php:153
+#@ functionality-for-blogpostlite-theme
+msgid "Random pick"
+msgstr ""
+
+#: includes/widgets/fast-flickr-widget.php:154
+#@ functionality-for-blogpostlite-theme
+msgid "Use random tag (needs random pick enable)"
+msgstr ""
+
+#: includes/widgets/followers-widget.php:14
+#@ functionality-for-blogpostlite-theme
+msgid "Just a simple widget that displays social icons with follower count."
+msgstr ""
+
+#: includes/widgets/followers-widget.php:144
+#: includes/widgets/recent-comments.php:110
+#@ functionality-for-blogpostlite-theme
+msgid "Widget title:"
+msgstr ""
+
+#: includes/widgets/followers-widget.php:154
+#@ functionality-for-blogpostlite-theme
+msgid "Twitter username:"
+msgstr ""
+
+#: includes/widgets/followers-widget.php:164
+#@ functionality-for-blogpostlite-theme
+msgid "Google+ API key:"
+msgstr ""
+
+#: includes/widgets/recent-posts-plus.php:72
+#@ functionality-for-blogpostlite-theme
+msgid "The most recent posts on your site. Includes advanced options."
+msgstr ""
+
+#: includes/widgets/recent-posts-plus.php:364
+#@ functionality-for-blogpostlite-theme
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/widgets/recent-posts-plus.php:371
+#@ functionality-for-blogpostlite-theme
+msgid "Include post thumbnail"
+msgstr ""
+
+#: includes/widgets/recent-posts-plus.php:375
+#@ functionality-for-blogpostlite-theme
+msgid "Include post excerpt"
+msgstr ""
+
+#: includes/widgets/recent-posts-plus.php:380
+#@ functionality-for-blogpostlite-theme
+msgid "Show expert options"
+msgstr ""
+
+#: includes/widgets/recent-posts-plus.php:386
+#@ functionality-for-blogpostlite-theme
+msgid "Limit post title:"
+msgstr ""
+
+#: includes/widgets/recent-posts-plus.php:394
+#@ functionality-for-blogpostlite-theme
+msgid "Limit post excerpt:"
+msgstr ""
+
+#: includes/widgets/recent-posts-plus.php:402
+#@ functionality-for-blogpostlite-theme
+msgid "Limit ellipsis:"
+msgstr ""
+
+#: includes/widgets/recent-posts-plus.php:407
+#@ functionality-for-blogpostlite-theme
+msgid "Post date format:"
+msgstr ""
+
+#: includes/widgets/recent-posts-plus.php:413
+#@ functionality-for-blogpostlite-theme
+msgid "Thumbnail size (WxH):"
+msgstr ""
+
+#: includes/widgets/recent-posts-plus.php:420
+#@ functionality-for-blogpostlite-theme
+msgid "WP_Query Options"
+msgstr ""
+
+#: includes/widgets/recent-posts-plus.php:425
+#@ functionality-for-blogpostlite-theme
+msgid "Widget Output Template"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:101
+#@ functionality-for-blogpostlite-theme
+msgid "Twitter widget settings"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:102
+#@ functionality-for-blogpostlite-theme
+msgid "You can configure your themes twitter widget settings here."
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:109
+#: functionality-for-blogpostlite-theme.php:117
+#@ functionality-for-blogpostlite-theme
+msgid "Login Screen Logo"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:110
+#@ functionality-for-blogpostlite-theme
+msgid "Upload a custom logo."
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:126
+#: functionality-for-blogpostlite-theme.php:136
+#@ functionality-for-blogpostlite-theme
+msgid "Consumer key"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:127
+#@ functionality-for-blogpostlite-theme
+msgid "Please enter your Twitter API consumer key."
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:146
+#: functionality-for-blogpostlite-theme.php:156
+#@ functionality-for-blogpostlite-theme
+msgid "Consumer secret"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:147
+#@ functionality-for-blogpostlite-theme
+msgid "Please enter your Twitter API consumer secret."
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:166
+#: functionality-for-blogpostlite-theme.php:176
+#@ functionality-for-blogpostlite-theme
+msgid "User token"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:167
+#@ functionality-for-blogpostlite-theme
+msgid "Please enter your Twitter API User token."
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:186
+#: functionality-for-blogpostlite-theme.php:196
+#@ functionality-for-blogpostlite-theme
+msgid "User secret"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:187
+#@ functionality-for-blogpostlite-theme
+msgid "Please enter your Twitter API User secret."
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:206
+#: functionality-for-blogpostlite-theme.php:216
+#@ functionality-for-blogpostlite-theme
+msgid "Custom JavaScript"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:207
+#@ functionality-for-blogpostlite-theme
+msgid "Copy your custom JavaScript code here. You have to add any needed html tags yourself."
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:226
+#: functionality-for-blogpostlite-theme.php:236
+#@ functionality-for-blogpostlite-theme
+msgid "Custom CSS"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:227
+#@ functionality-for-blogpostlite-theme
+msgid "Copy your custom CSS code here. Use plain CSS without any html tags."
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:248
+#@ functionality-for-blogpostlite-theme
+msgid "Advanced post format fields"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:313
+#@ functionality-for-blogpostlite-theme
+msgid "Post embed code"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:319
+#@ functionality-for-blogpostlite-theme
+msgid "Post twitter username"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:325
+#@ functionality-for-blogpostlite-theme
+msgid "Used tweet link, like https://twitter.com/Cohhe_Themes/status/577814278192959488"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:331
+#@ functionality-for-blogpostlite-theme
+msgid "Add your custom button text"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:337
+#@ functionality-for-blogpostlite-theme
+msgid "External button URL"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:343
+#@ functionality-for-blogpostlite-theme
+msgid "Media ID for a picture background"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:415
+#@ functionality-for-blogpostlite-theme
+msgid "Follow"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:421
+#@ functionality-for-blogpostlite-theme
+msgid "reply"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:422
+#@ functionality-for-blogpostlite-theme
+msgid "retweet"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:423
+#@ functionality-for-blogpostlite-theme
+msgid "favorite"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:467
+#@ functionality-for-blogpostlite-theme
+msgid "Open ad"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:578
+#: functionality-for-blogpostlite-theme.php:617
+#@ functionality-for-blogpostlite-theme
+msgid "Twitter"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:582
+#: functionality-for-blogpostlite-theme.php:621
+#@ functionality-for-blogpostlite-theme
+msgid "Facebook"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:586
+#: functionality-for-blogpostlite-theme.php:625
+#@ functionality-for-blogpostlite-theme
+msgid "Google+"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:590
+#: functionality-for-blogpostlite-theme.php:633
+#@ functionality-for-blogpostlite-theme
+msgid "Pinterest"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:594
+#: functionality-for-blogpostlite-theme.php:637
+#@ functionality-for-blogpostlite-theme
+msgid "VKontakte"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:629
+#@ functionality-for-blogpostlite-theme
+msgid "Instagram"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:760
+#@ functionality-for-blogpostlite-theme
+msgid "You haven't favorited any articles."
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:809
+#@ functionality-for-blogpostlite-theme
+msgid "No excerpt for this posting."
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:825
+#@ functionality-for-blogpostlite-theme
+msgid "Read"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:843
+#@ functionality-for-blogpostlite-theme
+msgid "Load more"
+msgstr ""
+
+#: functionality-for-blogpostlite-theme.php:845
+#@ functionality-for-blogpostlite-theme
+msgid "No more posts"
+msgstr ""
+
+#: includes/Tax-meta-class/Tax-meta-class.php:373
+#: includes/Tax-meta-class/Tax-meta-class.php:420
+#@ functionality-for-blogpostlite-theme
+msgid "Remove"
+msgstr ""
+
+#: includes/Tax-meta-class/Tax-meta-class.php:386
+#@ functionality-for-blogpostlite-theme
+msgid "Add"
+msgstr ""
+
+#: includes/Tax-meta-class/Tax-meta-class.php:719
+#@ functionality-for-blogpostlite-theme
+msgid "Remove Image"
+msgstr ""
+
+#: includes/Tax-meta-class/Tax-meta-class.php:721
+#@ functionality-for-blogpostlite-theme
+msgid "Upload Image"
+msgstr ""
+
+#: includes/Tax-meta-class/Tax-meta-class.php:741
+#@ functionality-for-blogpostlite-theme
+msgid "Select a color"
+msgstr ""
+
+#: includes/sidebars/multiple_sidebars.php:461
+#@ functionality-for-blogpostlite-theme
+msgid "Footer Area One"
+msgstr ""
+
+#: includes/sidebars/multiple_sidebars.php:471
+#@ functionality-for-blogpostlite-theme
+msgid "Footer Area Two"
+msgstr ""
+
+#: includes/sidebars/multiple_sidebars.php:481
+#@ functionality-for-blogpostlite-theme
+msgid "Footer Area Three"
+msgstr ""
+
+#: includes/sidebars/multiple_sidebars.php:491
+#@ functionality-for-blogpostlite-theme
+msgid "Footer Area Four"
+msgstr ""
+
+#: includes/widgets/about-us.php:11
+#@ functionality-for-blogpostlite-theme
+msgid "Display an information about your site."
+msgstr ""
+
+#: includes/widgets/about-us.php:13
+#@ functionality-for-blogpostlite-theme
+msgid "BlogPost - About Us"
+msgstr ""
+
+#: includes/widgets/about-us.php:104
+#@ functionality-for-blogpostlite-theme
+msgid "Content:"
+msgstr ""
+
+#: includes/widgets/about-us.php:109
+#: includes/widgets/social_links.php:122
+#@ functionality-for-blogpostlite-theme
+msgid "Facebook URL:"
+msgstr ""
+
+#: includes/widgets/about-us.php:114
+#: includes/widgets/social_links.php:126
+#@ functionality-for-blogpostlite-theme
+msgid "Twitter URL:"
+msgstr ""
+
+#: includes/widgets/about-us.php:119
+#: includes/widgets/social_links.php:166
+#@ functionality-for-blogpostlite-theme
+msgid "Instagram URL:"
+msgstr ""
+
+#: includes/widgets/about-us.php:124
+#: includes/widgets/social_links.php:174
+#@ functionality-for-blogpostlite-theme
+msgid "Google+ URL:"
+msgstr ""
+
+#: includes/widgets/about-us.php:129
+#@ functionality-for-blogpostlite-theme
+msgid "Pinterest URL:"
+msgstr ""
+
+#: includes/widgets/about-us.php:134
+#@ functionality-for-blogpostlite-theme
+msgid "VKontakte URL:"
+msgstr ""
+
+#: includes/widgets/advertisement.php:13
+#@ functionality-for-blogpostlite-theme
+msgid "Displays advertisement"
+msgstr ""
+
+#: includes/widgets/advertisement.php:15
+#@ functionality-for-blogpostlite-theme
+msgid "BlogPost - Advertisement"
+msgstr ""
+
+#: includes/widgets/advertisement.php:38
+#: includes/widgets/advertisement.php:39
+#@ functionality-for-blogpostlite-theme
+msgid "Advertisement"
+msgstr ""
+
+#: includes/widgets/advertisement.php:72
+#@ functionality-for-blogpostlite-theme
+msgid "How many ads to display?"
+msgstr ""
+
+#: includes/widgets/advertisement.php:88
+#@ functionality-for-blogpostlite-theme
+msgid "Image URL:"
+msgstr ""
+
+#: includes/widgets/advertisement.php:92
+#@ functionality-for-blogpostlite-theme
+msgid "Link:"
+msgstr ""
+
+#: includes/widgets/advertisement.php:96
+#@ functionality-for-blogpostlite-theme
+msgid "Example: <code>http://www.example.com</code>"
+msgstr ""
+
+#: includes/widgets/contactform.php:10
+#@ functionality-for-blogpostlite-theme
+msgid "Displays a contact form."
+msgstr ""
+
+#: includes/widgets/contactform.php:12
+#@ functionality-for-blogpostlite-theme
+msgid "BlogPost - Contact Form"
+msgstr ""
+
+#: includes/widgets/contactform.php:21
+#@ functionality-for-blogpostlite-theme
+msgid "Email Us"
+msgstr ""
+
+#: includes/widgets/contactform.php:36
+#@ functionality-for-blogpostlite-theme
+msgid "Your message was successfully sent. <strong>Thank You!</strong>"
+msgstr ""
+
+#: includes/widgets/contactform.php:39
+#@ functionality-for-blogpostlite-theme
+msgid "An error occurred. Try again later."
+msgstr ""
+
+#: includes/widgets/contactform.php:45
+#@ functionality-for-blogpostlite-theme
+msgid "Name (required)"
+msgstr ""
+
+#: includes/widgets/contactform.php:48
+#@ functionality-for-blogpostlite-theme
+msgid "Email (required)"
+msgstr ""
+
+#: includes/widgets/contactform.php:53
+#@ functionality-for-blogpostlite-theme
+msgid "Submit"
+msgstr ""
+
+#: includes/widgets/contactform.php:79
+#@ functionality-for-blogpostlite-theme
+msgid "Send emails to:"
+msgstr ""
+
+#: includes/widgets/followers-widget.php:11
+#@ functionality-for-blogpostlite-theme
+msgid "BlogPost - Followers"
+msgstr ""
+
+#: includes/widgets/followers-widget.php:47
+#: includes/widgets/followers-widget.php:66
+#: includes/widgets/followers-widget.php:83
+#: includes/widgets/followers-widget.php:93
+#@ functionality-for-blogpostlite-theme
+msgid "followers"
+msgstr ""
+
+#: includes/widgets/followers-widget.php:149
+#@ functionality-for-blogpostlite-theme
+msgid "Facebook username:"
+msgstr ""
+
+#: includes/widgets/followers-widget.php:159
+#@ functionality-for-blogpostlite-theme
+msgid "Google+ username:"
+msgstr ""
+
+#: includes/widgets/followers-widget.php:169
+#@ functionality-for-blogpostlite-theme
+msgid "Pinterest username:"
+msgstr ""
+
+#: includes/widgets/googlemap.php:11
+#@ functionality-for-blogpostlite-theme
+msgid "Displays a google map."
+msgstr ""
+
+#: includes/widgets/googlemap.php:13
+#@ functionality-for-blogpostlite-theme
+msgid "BlogPost - Google map"
+msgstr ""
+
+#: includes/widgets/googlemap.php:103
+#@ functionality-for-blogpostlite-theme
+msgid "Address:"
+msgstr ""
+
+#: includes/widgets/googlemap.php:105
+#@ functionality-for-blogpostlite-theme
+msgid "Choose an address or latitute and logtitude"
+msgstr ""
+
+#: includes/widgets/googlemap.php:109
+#@ functionality-for-blogpostlite-theme
+msgid "Latitude:"
+msgstr ""
+
+#: includes/widgets/googlemap.php:114
+#@ functionality-for-blogpostlite-theme
+msgid "Longitude:"
+msgstr ""
+
+#: includes/widgets/googlemap.php:119
+#@ functionality-for-blogpostlite-theme
+msgid "Zoom level:"
+msgstr ""
+
+#: includes/widgets/googlemap.php:128
+#@ functionality-for-blogpostlite-theme
+msgid "Content for the marker:"
+msgstr ""
+
+#: includes/widgets/googlemap.php:134
+#@ functionality-for-blogpostlite-theme
+msgid "Auto popup the info?"
+msgstr ""
+
+#: includes/widgets/googlemap.php:138
+#@ functionality-for-blogpostlite-theme
+msgid "Height:"
+msgstr ""
+
+#: includes/widgets/recent-comments.php:11
+#@ functionality-for-blogpostlite-theme
+msgid "BlogPost - Recent comments"
+msgstr ""
+
+#: includes/widgets/recent-comments.php:14
+#@ functionality-for-blogpostlite-theme
+msgid "Just a simple widget that displays recent comments."
+msgstr ""
+
+#: includes/widgets/recent-comments.php:80
+#@ functionality-for-blogpostlite-theme
+msgid "There hasn't been any activity in this listing."
+msgstr ""
+
+#: includes/widgets/recent-comments.php:115
+#@ functionality-for-blogpostlite-theme
+msgid "Whats the limit?:"
+msgstr ""
+
+#: includes/widgets/recent-posts-plus.php:74
+#@ functionality-for-blogpostlite-theme
+msgid "BlogPost - Recent Posts Plus"
+msgstr ""
+
+#: includes/widgets/sidebar-comments.php:11
+#@ functionality-for-blogpostlite-theme
+msgid "BlogPost - Sidebar comments"
+msgstr ""
+
+#: includes/widgets/sidebar-comments.php:14
+#@ functionality-for-blogpostlite-theme
+msgid "Just a simple widget that displays comments at sidebar."
+msgstr ""
+
+#: includes/widgets/social_links.php:11
+#@ functionality-for-blogpostlite-theme
+msgid "Link to your RSS feed and social media accounts."
+msgstr ""
+
+#: includes/widgets/social_links.php:13
+#@ functionality-for-blogpostlite-theme
+msgid "BlogPost - Social Network links"
+msgstr ""
+
+#: includes/widgets/social_links.php:18
+#@ functionality-for-blogpostlite-theme
+msgid "Social Media"
+msgstr ""
+
+#: includes/widgets/social_links.php:118
+#@ functionality-for-blogpostlite-theme
+msgid "RSS URL: (leave empty for default feed)"
+msgstr ""
+
+#: includes/widgets/social_links.php:130
+#@ functionality-for-blogpostlite-theme
+msgid "Flickr URL:"
+msgstr ""
+
+#: includes/widgets/social_links.php:134
+#@ functionality-for-blogpostlite-theme
+msgid "Youtube URL:"
+msgstr ""
+
+#: includes/widgets/social_links.php:138
+#@ functionality-for-blogpostlite-theme
+msgid "LinkedIn URL:"
+msgstr ""
+
+#: includes/widgets/social_links.php:142
+#@ functionality-for-blogpostlite-theme
+msgid "FourSquare URL:"
+msgstr ""
+
+#: includes/widgets/social_links.php:146
+#@ functionality-for-blogpostlite-theme
+msgid "Delicious URL:"
+msgstr ""
+
+#: includes/widgets/social_links.php:150
+#@ functionality-for-blogpostlite-theme
+msgid "Digg URL:"
+msgstr ""
+
+#: includes/widgets/social_links.php:154
+#@ functionality-for-blogpostlite-theme
+msgid "Skype URL:"
+msgstr ""
+
+#: includes/widgets/social_links.php:158
+#@ functionality-for-blogpostlite-theme
+msgid "Tumblr URL:"
+msgstr ""
+
+#: includes/widgets/social_links.php:162
+#@ functionality-for-blogpostlite-theme
+msgid "Vimeo URL:"
+msgstr ""
+
+#: includes/widgets/social_links.php:170
+#@ functionality-for-blogpostlite-theme
+msgid "Pintrest URL:"
+msgstr ""
+
+#: includes/widgets/twitter/twitter.php:12
+#@ functionality-for-blogpostlite-theme
+msgid "Displays a twitter feed"
+msgstr ""
+
+#: includes/widgets/twitter/twitter.php:14
+#@ functionality-for-blogpostlite-theme
+msgid "BlogPost - Twitter"
+msgstr ""
+
+#: includes/widgets/twitter/twitter.php:19
+#@ functionality-for-blogpostlite-theme
+msgid "Recent Tweets"
+msgstr ""
+
+#: includes/widgets/twitter/twitter.php:57
+#, php-format
+#@ functionality-for-blogpostlite-theme
+msgid "about %d seconds ago"
+msgstr ""
+
+#: includes/widgets/twitter/twitter.php:58
+#@ functionality-for-blogpostlite-theme
+msgid "about a minute ago"
+msgstr ""
+
+#: includes/widgets/twitter/twitter.php:59
+#, php-format
+#@ functionality-for-blogpostlite-theme
+msgid "about %d minutes ago"
+msgstr ""
+
+#: includes/widgets/twitter/twitter.php:60
+#@ functionality-for-blogpostlite-theme
+msgid "about an hour ago"
+msgstr ""
+
+#: includes/widgets/twitter/twitter.php:61
+#, php-format
+#@ functionality-for-blogpostlite-theme
+msgid "about %d hours ago"
+msgstr ""
+
+#: includes/widgets/twitter/twitter.php:62
+#@ functionality-for-blogpostlite-theme
+msgid "about a day ago"
+msgstr ""
+
+#: includes/widgets/twitter/twitter.php:63
+#, php-format
+#@ functionality-for-blogpostlite-theme
+msgid "about %d days ago"
+msgstr ""
+
+#: includes/widgets/twitter/twitter.php:96
+#@ functionality-for-blogpostlite-theme
+msgid "Usernames (separate with comas):"
+msgstr ""
+
+#: includes/widgets/twitter/twitter.php:100
+#@ functionality-for-blogpostlite-theme
+msgid "height and width of avatar if displayed (54px max)(optional)"
+msgstr ""
+
+#: includes/widgets/twitter/twitter.php:104
+#@ functionality-for-blogpostlite-theme
+msgid "How many tweets to display?"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: functionality-for-blogpostlite-theme.php:0
+#@ functionality-for-blogpostlite-theme
+msgid "https://cohhe.com/"
+msgstr ""
+
