@@ -2056,7 +2056,7 @@ function get_theme_starter_content() {
 			'home' => array(
 				'post_type' => 'page',
 				'post_title' => _x( 'Home', 'Theme starter content' ),
-				'post_content' => _x( 'Welcome to your site! This is your homepage, which is what most visitors will see when they come to your site for the first time.', 'Theme starter content' ),
+				'post_content' => _x( 'Welcome to FreshFinds to your site! This is your homepage, which is what most visitors will see when they come to your site for the first time. YAY', 'Theme starter content' ),
 			),
 			'about' => array(
 				'post_type' => 'page',
